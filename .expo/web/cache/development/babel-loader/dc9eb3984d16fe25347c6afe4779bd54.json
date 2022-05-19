@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { Pokemons } from \"./Pokemons\";","map":{"version":3,"names":["Pokemons"],"sources":["D:/1. рабочий стол диск C/учеба/мобилки/lab3/творим/pokeAPP/features/Pokemons/index.ts"],"sourcesContent":["export { Pokemons } from \"./Pokemons\";\r\n"],"mappings":"AAAA,SAASA,QAAT"},"metadata":{},"sourceType":"module"}
